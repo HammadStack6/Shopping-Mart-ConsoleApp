@@ -38,7 +38,7 @@ namespace Shopping_Mart_ConsoleApp
                 {
                     condition = true;
                 }
-                cart.Add((Products[input - 1], Prices[input - 1])); //this
+                cart.Add((Products[input - 1], Prices[input - 1])); //this need to understand
 
                 if (agree1 == "yes")
                 {
